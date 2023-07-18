@@ -2,7 +2,7 @@
     <p align="center">
         <img width="150" src="doc/images/gopher-face.png" alt="Gopher's face looking up" />
     </p>
-    <h3 align="center">Empresas que utilizam Golang no Brasil</h3>
+    <h3 align="center">Empresas que utilizam Golang</h3>
 </header>
 
 # Introdução
