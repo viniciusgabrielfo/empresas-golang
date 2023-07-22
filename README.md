@@ -7,9 +7,9 @@
 
 # Introdução
 
-Este repositório tem o intuito de listar o nome de empresas que trabalham com Golang em seus projetos. 
+Este repositório tem o intuito de listar o nome de empresas que trabalham com Golang em seus projetos e contratam brasileiros. 
 
-Para adicionar uma empresa basta seguir padrão existente na tabela, sempre adicionando o 
+Para adicionar uma empresa basta abrir um Pull Request seguindo padrão existente na tabela, sempre adicionando o 
 [Stackshare](https://stackshare.io) (caso houver) e o link de acesso às vagas (caso não possua, incluir link da página de jobs do Linkedin).
 
 
