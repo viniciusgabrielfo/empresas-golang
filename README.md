@@ -7,8 +7,6 @@
 
 # Introdução
 
-Fork do [Empresas PHP](https://github.com/DanielHe4rt/empresas-php).
-
 Este repositório tem o intuito de listar o nome de empresas que trabalham com Golang em seus projetos. 
 
 Para adicionar uma empresa basta seguir padrão existente na tabela, sempre adicionando o 
