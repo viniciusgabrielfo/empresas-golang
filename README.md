@@ -9,8 +9,24 @@
 
 Este repositório tem o intuito de listar o nome de empresas que trabalham com Golang em seus projetos e contratam brasileiros. 
 
-Para adicionar uma empresa basta abrir um Pull Request seguindo padrão existente na tabela, sempre adicionando o 
-[Stackshare](https://stackshare.io) (caso houver) e o link de acesso às vagas (caso não possua, incluir link da página de jobs do Linkedin).
+## 🚀 Como Contribuir
+
+Para adicionar uma empresa, siga estas etapas:
+
+1. **Fork** este repositório
+2. **Clone** o seu fork localmente
+3. **Adicione** a empresa na tabela em **ordem alfabética**
+4. **Teste** se todos os links funcionam
+5. **Abra** um Pull Request
+
+📖 **Guia Completo**: Consulte o [CONTRIBUTING.md](./CONTRIBUTING.md) para instruções detalhadas.
+
+### Informações Necessárias
+
+- **Nome da empresa** com link para o website
+- **Stackshare** (opcional): Link do perfil no [Stackshare](https://stackshare.io)
+- **Link de vagas**: Página de carreiras da empresa (ou LinkedIn se não houver)
+- **Tipo de contratação**: NACIONAL, INTERNACIONAL ou NACIONAL/INTERNACIONAL
 
 
 # Empresas
@@ -42,3 +58,14 @@ Para adicionar uma empresa basta abrir um Pull Request seguindo padrão existent
 | [Studio Sol](https://www.studiosol.com.br/)                                |                                                                              | [Clique aqui](https://studiosol.gupy.io)                                                | NACIONAL              |
 | [Uber](https://www.uber.com/br/pt-br)                                      | [Clique aqui](https://stackshare.io/uber-technologies/uber)                  | [Clique aqui](https://www.uber.com/us/en/careers/list)                                  | NACIONAL              |
 | [Unico](https://unico.io)                                                  |                                                                              | [Clique aqui](https://jobs.lever.co/unico)                                              | NACIONAL              |
+
+
+## 🔗 Links Úteis
+
+- [Golang Brasil](https://golang.org.br/) - Comunidade oficial do Go no Brasil
+- [Stackshare](https://stackshare.io) - Tecnologias usadas pelas empresas
+- [Go Jobs](https://golang.org/s/golang-jobs) - Vagas oficiais do Go
+
+---
+
+**Contribua para este projeto!** 🚀 Ajude outros desenvolvedores Go a encontrar oportunidades de trabalho.
