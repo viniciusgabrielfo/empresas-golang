@@ -9,7 +9,7 @@
 
 Este repositório tem o intuito de listar o nome de empresas que trabalham com Golang em seus projetos e contratam brasileiros. 
 
-## 🚀 Como Contribuir
+## Como Contribuir
 
 Para adicionar uma empresa, siga estas etapas:
 
@@ -62,9 +62,9 @@ Para adicionar uma empresa, siga estas etapas:
 
 ## 🔗 Links Úteis
 
-- [Golang Brasil](https://golang.org.br/) - Comunidade oficial do Go no Brasil
+- [Golang Brasil](https://golang.com.br) - Comunidade do Go no Brasil
+- [A Semana Go](https://www.asemanago.dev) - Newsletter semanal de tópicos sobre Go
 - [Stackshare](https://stackshare.io) - Tecnologias usadas pelas empresas
-- [Go Jobs](https://golang.org/s/golang-jobs) - Vagas oficiais do Go
 
 ---
 
