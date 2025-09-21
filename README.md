@@ -49,7 +49,7 @@ Para adicionar uma empresa, siga estas etapas:
 | [Liber Capital](https://libercapital.com.br/)                              | [Clique aqui](https://stackshare.io/liber-capital/tech)                      | [Clique aqui](https://libercapital.gupy.io/)                                            | NACIONAL              |
 | [MadeiraMadeira](https://www.madeiramadeira.com.br/)                       |                                                                              | [Clique aqui](https://careers-madeiramadeira.icims.com/jobs/)                           | NACIONAL              |
 | [Mercado Livre](https://mercadolivre.com.br)                               | [Clique aqui](https://stackshare.io/mercadolibre/mercadolibre )              | [Clique aqui](https://mercadolibre.eightfold.ai/careers)                                | NACIONAL              |
-| [Meteor](https://meteor.com)                                               |                                                                              | [Clique aqui](https://lp.meteor.com/company/careers)                                    | INTERNACIONAL         | 
+| [Meteor](https://meteor.com)                                               |                                                                              | [Clique aqui](https://lp.meteor.com/company/careers)                                    | INTERNACIONAL         |
 | [Neoway](https://www.neoway.com.br/)                                       |                                                                              | [Clique aqui](https://timeneoway.gupy.io/)                                              | NACIONAL              |
 | [Oderço](https://www.oderco.com.br)                                        |                                                                              | [Clique aqui](https://oderco.rhgestor.com.br/vagas)                                     | NACIONAL              |
 | [PicPay](https://picpay.com)                                               | [Clique aqui](https://stackshare.io/picpay/picpay)                           | [Clique aqui](https://picpay.com/oportunidades-de-emprego-e-carreiras/central-de-vagas) | NACIONAL              |
@@ -60,6 +60,18 @@ Para adicionar uma empresa, siga estas etapas:
 | [Unico](https://unico.io)                                                  |                                                                              | [Clique aqui](https://jobs.lever.co/unico)                                              | NACIONAL              |
 
 
+## 🛠️ Ferramentas
+
+Este projeto inclui ferramentas em Go para facilitar a manutenção:
+
+```bash
+# Ordenar empresas automaticamente
+make sort
+
+# Ver todos os comandos disponíveis
+make help
+```
+
 ## 🔗 Links Úteis
 
 - [Golang Brasil](https://golang.com.br) - Comunidade do Go no Brasil
@@ -69,3 +81,4 @@ Para adicionar uma empresa, siga estas etapas:
 ---
 
 **Contribua para este projeto!** 🚀 Ajude outros desenvolvedores Go a encontrar oportunidades de trabalho.
+

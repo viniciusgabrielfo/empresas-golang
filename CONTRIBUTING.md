@@ -52,7 +52,12 @@ Cada empresa deve seguir este formato na tabela:
 
 ⚠️ **IMPORTANTE**: As empresas devem estar em ordem alfabética por nome.
 
-**Dicas para ordenação:**
+**Ordenação automática:**
+```bash
+make sort
+```
+
+**Dicas para ordenação manual:**
 - Ignore artigos como "A", "O", "De", "Da", "Do"
 - Use o nome principal da empresa (ex: "Mercado Livre" vem antes de "MadeiraMadeira")
 - Empresas com nomes em inglês vêm antes das em português quando começam com a mesma letra
@@ -61,7 +66,7 @@ Cada empresa deve seguir este formato na tabela:
 
 Antes de fazer o commit, verifique:
 
-- [ ] A empresa está em ordem alfabética
+- [ ] A empresa está em ordem alfabética (use `make sort` para ordenar automaticamente)
 - [ ] Todos os links funcionam (teste clicando neles)
 - [ ] O formato da tabela está correto
 - [ ] O tipo de contratação está correto
@@ -83,6 +88,19 @@ Antes de fazer o commit, verifique:
 3. Crie um Pull Request no GitHub
 
 4. Preencha o template do PR com as informações solicitadas
+
+## 🛠️ Ferramentas do Projeto
+
+### Ordenação Automática
+O projeto inclui um script em Go para ordenar automaticamente as empresas:
+
+```bash
+# Ordenar empresas automaticamente
+make sort
+
+# Ver todos os comandos disponíveis
+make help
+```
 
 ## 🔍 Validações Automáticas
 
