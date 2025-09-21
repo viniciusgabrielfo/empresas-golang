@@ -102,14 +102,6 @@ make sort
 make help
 ```
 
-## 🔍 Validações Automáticas
-
-O repositório possui validações automáticas que verificam:
-
-- ✅ Se todos os links estão funcionando
-- ✅ Se a formatação da tabela está correta
-- ✅ Se a empresa foi adicionada em ordem alfabética
-
 ## ❓ Dúvidas Frequentes
 
 ### "Não encontrei o link de vagas da empresa"
