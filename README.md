@@ -9,8 +9,24 @@
 
 Este repositório tem o intuito de listar o nome de empresas que trabalham com Golang em seus projetos e contratam brasileiros. 
 
-Para adicionar uma empresa basta abrir um Pull Request seguindo padrão existente na tabela, sempre adicionando o 
-[Stackshare](https://stackshare.io) (caso houver) e o link de acesso às vagas (caso não possua, incluir link da página de jobs do Linkedin).
+## Como Contribuir
+
+Para adicionar uma empresa, siga estas etapas:
+
+1. **Fork** este repositório
+2. **Clone** o seu fork localmente
+3. **Adicione** a empresa na tabela em **ordem alfabética**
+4. **Teste** se todos os links funcionam
+5. **Abra** um Pull Request
+
+📖 **Guia Completo**: Consulte o [CONTRIBUTING.md](./CONTRIBUTING.md) para instruções detalhadas.
+
+### Informações Necessárias
+
+- **Nome da empresa** com link para o website
+- **Stackshare** (opcional): Link do perfil no [Stackshare](https://stackshare.io)
+- **Link de vagas**: Página de carreiras da empresa (ou LinkedIn se não houver)
+- **Tipo de contratação**: NACIONAL, INTERNACIONAL ou NACIONAL/INTERNACIONAL
 
 
 # Empresas
@@ -36,7 +52,7 @@ Para adicionar uma empresa basta abrir um Pull Request seguindo padrão existent
 | [Liber Capital](https://libercapital.com.br/)                              | [Clique aqui](https://stackshare.io/liber-capital/tech)                      | [Clique aqui](https://libercapital.gupy.io/)                                            | NACIONAL              |
 | [MadeiraMadeira](https://www.madeiramadeira.com.br/)                       |                                                                              | [Clique aqui](https://careers-madeiramadeira.icims.com/jobs/)                           | NACIONAL              |
 | [Mercado Livre](https://mercadolivre.com.br)                               | [Clique aqui](https://stackshare.io/mercadolibre/mercadolibre )              | [Clique aqui](https://mercadolibre.eightfold.ai/careers)                                | NACIONAL              |
-| [Meteor](https://meteor.com)                                               |                                                                              | [Clique aqui](https://lp.meteor.com/company/careers)                                    | INTERNACIONAL         | 
+| [Meteor](https://meteor.com)                                               |                                                                              | [Clique aqui](https://lp.meteor.com/company/careers)                                    | INTERNACIONAL         |
 | [Neoway](https://www.neoway.com.br/)                                       |                                                                              | [Clique aqui](https://timeneoway.gupy.io/)                                              | NACIONAL              |
 | [Oderço](https://www.oderco.com.br)                                        |                                                                              | [Clique aqui](https://oderco.rhgestor.com.br/vagas)                                     | NACIONAL              |
 | [PicPay](https://picpay.com)                                               | [Clique aqui](https://stackshare.io/picpay/picpay)                           | [Clique aqui](https://picpay.com/oportunidades-de-emprego-e-carreiras/central-de-vagas) | NACIONAL              |
@@ -46,3 +62,25 @@ Para adicionar uma empresa basta abrir um Pull Request seguindo padrão existent
 | [Uber](https://www.uber.com/br/pt-br)                                      | [Clique aqui](https://stackshare.io/uber-technologies/uber)                  | [Clique aqui](https://www.uber.com/us/en/careers/list)                                  | NACIONAL              |
 | [Unico](https://unico.io)                                                  |                                                                              | [Clique aqui](https://jobs.lever.co/unico)                                              | NACIONAL              |
 | [Wellhub](https://wellhub.com/pt-br)                                       | [Clique aqui](https://stackshare.io/wellhub/wellhub)                         | [Clique aqui](https://wellhub.com/careers/)                                             | NACIONAL/INTERNACIONAL|
+
+## 🛠️ Ferramentas
+
+Este projeto inclui ferramentas em Go para facilitar a manutenção:
+
+```bash
+# Ordenar empresas automaticamente
+make sort
+
+# Ver todos os comandos disponíveis
+make help
+```
+
+## 🔗 Links Úteis
+
+- [Golang Brasil](https://golang.com.br) - Comunidade do Go no Brasil
+- [A Semana Go](https://www.asemanago.dev) - Newsletter semanal de tópicos sobre Go
+- [Stackshare](https://stackshare.io) - Tecnologias usadas pelas empresas
+
+---
+
+**Contribua para este projeto!** 🚀 Ajude outros desenvolvedores Go a encontrar oportunidades de trabalho.
