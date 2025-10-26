@@ -32,6 +32,7 @@ Para adicionar uma empresa, siga estas etapas:
 
 | Nome                                                 | Stackshare                                                               | Link de vagas                                                                           | Tipo de contratação    |
 | ---------------------------------------------------- | ------------------------------------------------------------------------ | --------------------------------------------------------------------------------------- | ---------------------- |
+| [Ardan Labs](https://www.ardanlabs.com)              |                                                                          | [Clique aqui](https://www.ardanlabs.com/careers)                                        | INTERNACIONAL          |
 | [Avenue](https://avenue.us)                          | [Clique aqui](https://stackshare.io/avenue-securities/avenue-securities) | [Clique aqui](https://avenue.gupy.io)                                                   | NACIONAL               |
 | [Bemobi](https://www.bemobi.com)                     |                                                                          | [Clique aqui](https://bemobi.gupy.io)                                                   | NACIONAL               |
 | [Bexs](https://www.bexs.com.br)                      |                                                                          | [Clique aqui](https://bexs.gupy.io)                                                     | NACIONAL               |
