@@ -13,4 +13,9 @@ help: ## Mostra esta ajuda
 sort: ## Ordena as empresas na tabela do README.md
 	@./scripts/sort.sh
 
+add: ## Adiciona uma nova empresa à tabela do README.md > make add "Nome da empresa - link.site - link.stackshare or keep empty - link.vagas - tipo de contratação"
+	@./scripts/add/add.sh $(filter-out $@,$(MAKECMDGOALS))
+%:
+	@:
+
 .DEFAULT_GOAL := help
